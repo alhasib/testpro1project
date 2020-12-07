@@ -25,7 +25,7 @@ SECRET_KEY = '7t&=r&z8j=xhe248=20_e&z)ye1(r1-+&#(90evc4brvt=k_2e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://hasibtestproject1.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['https://hasibpro1.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition
